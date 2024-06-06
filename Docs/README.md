@@ -23,8 +23,6 @@
 ## Key Components
 - **Programming Language**: Python, html, css, js
 - **Web Framework**: Flask
-- **Containerization**: Docker
-- **WSL**: Windows Subsystem for Linux
 - **DataBase**: MongoDB
 
 ## Table of Contents
